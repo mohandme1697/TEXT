@@ -1,0 +1,103 @@
+database connectivity:
+
+structured query language:
+vendors:
+MS SQL
+My SQL
+Derby
+MariaDB
+InnoDB
+postgres
+oracle
+
+Relational Data Base Management System:table format
+database
+tables
+fields/columns
+records/rows
+
+NoSQL:
+json document format database
+
+Java Script Objection Notation
+
+{
+"key":value
+}
+bson
+database
+collection
+field
+documents
+
+sample:
+{
+"_id":binary,
+"name":"mohan"
+"org":"MNW"
+"exp":2
+}
+
+{
+
+"_id":binary,
+"name":"priya"
+"org":"MNW"
+"exp":2
+"address":"salem"
+"team":"delivery"
+
+}
+
+
+JSON Types:
+
+String
+object
+Array
+Number:
+      int
+      float
+
+
+{
+"_id":binary,
+"name":"zealous",
+"year":2013,
+"trainer":["razak","monoj","annamalai","aarthi"]
+"skillsets":
+            {
+                 "java":"full stack"
+                 "python":"back end"
+            }
+}
+
+mongoDB;
+shell>> commands
+compass>>gui based tool
+back end> java,python,java script
+
+database:
+  collection
+    documents
+    documents
+    documents
+
+ex:
+flipkart
+   users
+      mohan-documents
+      mons-documents
+  items
+     sony-pendrive-docu
+     reebok-shoes-docu
+
+
+
+
+
+
+
+
+
+

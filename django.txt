@@ -1,0 +1,36 @@
+Django structure:
+
+PROJECTNAME : django-admin startproject PROJECTNAME
+
+    init.py
+wsgi.py
+asgi.py
+settings.py
+PROJECTNAME: application server
+manage.py >> server
+urls.py >> server url with applications reference path
+
+
+cd PROJECTNAME
+APPLICATION: python manage.py startapp APPLICATIONNAME
+models.py
+views.py >> functions/class to define url path response
+urls.py >> path with respective view function/actions
+
+
+
+pip install pymongo
+
+pip install mongoengine
+
+pip install certifi
+
+pip install dnspython
+
+pip install django
+
+(hai) PS E:\mohan> pip freeze >requirements.txt       
+(hai) PS E:\mohan> cd myjango
+(hai) PS E:\mohan\myjango> python manage.py runserver
+
+
