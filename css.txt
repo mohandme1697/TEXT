@@ -1,0 +1,39 @@
+casecading style sheet:
+    decorating components:
+       colors,margins,backgrounds,scales,position,size,.....
+
+3 ways implement css in html:
+   1.inline css : <element style=""></element>
+   2.internal css:
+          <head>
+            <style type="text/css">
+                element{
+                   properties
+                  }
+             </styles>
+             </head>
+   3.external css: a separate file.css
+              hai.css
+                style properties
+               
+              html document:
+               <head>
+               <link rel="stylesheet" href="location and file of css" />
+              </head>
+3 option to relate components:
+   element
+   id:
+      html:
+        <input type="text" id="hai"/>
+     css:
+        #hai{
+          properties
+         }
+    class:
+      select class="hey"
+
+    css:
+       .hey{
+           properties
+           }
+              

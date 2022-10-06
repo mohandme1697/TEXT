@@ -1,0 +1,22 @@
+Bootstrap:
+	HTML+CSS Framework
+    
+	mobile first approach
+
+    	embedded built in css classes which associate with HTML
+
+ways to implement:
+    	ContentDeliveryNetwork:link to copy desired html
+    	download bootstrap file and link to html
+
+class:
+	colors
+	position
+	alignments
+	breakpoints
+
+components:
+	cards
+	carousel
+	nav
+	table
