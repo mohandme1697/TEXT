@@ -33,4 +33,9 @@ pip install django
 (hai) PS E:\mohan> cd myjango
 (hai) PS E:\mohan\myjango> python manage.py runserver
 
+pip install -r requirement.txt       - all install
+
+
+security - set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 
