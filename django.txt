@@ -1,3 +1,6 @@
+
+1...Python -m venv anyname (path and environment)
+
 Django structure:
 
 PROJECTNAME : django-admin startproject PROJECTNAME
