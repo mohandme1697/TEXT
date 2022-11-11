@@ -1,5 +1,30 @@
+new terminal
+1...Python -m venv anyname (path and environment)  --> terminal delete
 
-1...Python -m venv anyname (path and environment)
+ctrl+shift+p=select entrepretor=select
+
+new terminal
+2...set-ExecutionPolicy RemoteSigned -Scope CurrentUser -->security purpose
+delete terminal
+
+3...new terminal
+pip install pymongo
+pip install mongoengine
+pip install certifi
+pip install dnspython
+pip install django
+
+4...django-admin startproject PROJECTNAME
+
+5...cd PROJECTNAME
+
+6...python manage.py startapp APPLICATIONNAME
+
+7...pip freeze >requirements.txt  
+
+8...pip install -r requirements.txt
+
+
 
 Django structure:
 
@@ -22,15 +47,7 @@ urls.py >> path with respective view function/actions
 
 
 
-pip install pymongo
 
-pip install mongoengine
-
-pip install certifi
-
-pip install dnspython
-
-pip install django
 
 (hai) PS E:\mohan> pip freeze >requirements.txt       
 (hai) PS E:\mohan> cd myjango
@@ -39,6 +56,6 @@ pip install django
 pip install -r requirement.txt       - all install
 
 
-security - set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 
 
